@@ -1,0 +1,10 @@
+print("Hello World")
+
+a=16
+b=13
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
